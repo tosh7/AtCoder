@@ -2,7 +2,7 @@
 This repository is for [AtCorder](https://atcoder.jp/) backup.  
 AtCoder is a programming contest site for anyone from beginners to experts. We hold weekly programming contests online.  
 Check my AtCorder account here -> [tosh7](atcoder.jp/users/tosh7).  
-All rights reserved under [MIT]() license.
+All rights reserved under [MIT](https://github.com/tosh7/AtCoder/blob/main/LICENSE) license.
 
 ## Languages
 I prefer using C++, which is one of the fastest programming languages. This [reference](https://www.cplusplus.com/) would help you to use C++.
