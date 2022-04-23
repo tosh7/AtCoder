@@ -12,10 +12,10 @@ Copy base directory and rename for the event. Encorege you to name as "yyyymmdd_
 All inputs should put in `input.txt`.
 
 ## How to compile
-To make compile easier, I set an alias.
+To make compile easier, I set aliases.
 
 ```
 alias ac='g++ Main.cpp;./a.out < input.txt'
 alias acs='swiftc -emit-executable Main.swift;./Main < input.txt'
 ```
-All you have to do is just do 'ac' command.
+All you have to do is just do 'ac' or 'acs' command.
