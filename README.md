@@ -16,5 +16,6 @@ To make compile easier, I set an alias.
 
 ```
 alias ac='g++ Main.cpp;./a.out < input.txt'
+alias acs='swiftc -emit-executable Main.swift;./Main < input.txt'
 ```
 All you have to do is just do 'ac' command.
